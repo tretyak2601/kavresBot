@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\KavresBot.exe.config
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\KavresBot.exe
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\KavresBot.pdb
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\Telegram.Bot.dll
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\source\repos\KavresBot\KavresBot\bin\Debug\Telegram.Bot.xml
+C:\Users\1\source\repos\KavresBot\KavresBot\obj\Debug\KavresBot.csprojAssemblyReference.cache
+C:\Users\1\source\repos\KavresBot\KavresBot\obj\Debug\KavresBot.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\KavresBot\KavresBot\obj\Debug\KavresBot.csproj.CopyComplete
+C:\Users\1\source\repos\KavresBot\KavresBot\obj\Debug\KavresBot.exe
+C:\Users\1\source\repos\KavresBot\KavresBot\obj\Debug\KavresBot.pdb
